@@ -1,6 +1,6 @@
-# Exemplo de CRUD com PHP e Ajax com JS puro
+# Exemplo de CRUD com PHP e Ajax 
 
-Projeto voltado a fazer um crud fácil e simples com ajax usando JS
+Projeto voltado a fazer um crud fácil e simples com ajax usando JS puro
 
 ## Requisitos
 
